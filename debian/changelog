@@ -1,3 +1,9 @@
+marketo (0.2.2.1-1~r147.e18cea3~ppa16.04) xenial; urgency=medium
+
+  * upstream v0.2.2 release
+
+ -- Shengjing Zhu <zsj950618@gmail.com>  Wed, 18 Feb 2016 21:36:12 +0800
+
 marketo (0.1-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
